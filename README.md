@@ -38,4 +38,4 @@ This is a boilerplate .NET Core Web API project using Entity Framework Core (in-
 
 ## License
 
-MIT License (or choose your own).
+MIT License .
